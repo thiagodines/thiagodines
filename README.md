@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thiagodines
+- 👋 Hi, I’m 'Thiago Callegari'
 - 👀 I’m interested in learn how to code.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on everything i can.
