@@ -2,7 +2,7 @@
 - 👀 I’m interested in learn how to code.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on everything i can.
-- 📫 How to reach me: callegari.s.thiago@gmaail.com
+- 📫 How to reach me: callegari.s.thiago@gmail.com
 
 <!---
 thiagodines/thiagodines is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
